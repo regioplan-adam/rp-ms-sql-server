@@ -2,7 +2,7 @@
 <h3 align="center">Connect met de Server <br> <i> overzicht van de stappen voor de connectie met de regioplan server</i></h3>
 
   <p align="center">
-  Gemaakt door: Anne LeemansCancel changes
+  Gemaakt door: Anne Leemans
   <br>
   <img src="images\logo.png" alt="Logo" width="400" height="257">
   </p>
